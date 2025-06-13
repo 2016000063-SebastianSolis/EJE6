@@ -1,0 +1,18 @@
+/* Basado en el Ejemplo 5, con adiciones para el Ejemplo 6 */
+body {
+    font-family: "Tahoma";
+    font-size: 14px; /* El ejemplo 6 sugiere 14px para el body */
+}
+
+form { /* Estilos específicos para todos los formularios, ahora con padding, margin, width, border */
+    padding: 10px;
+    margin: 0;
+    width: 250px;
+    border: 1px solid darkgray;
+}
+
+input { /* Estilos para los campos de entrada */
+    font-family: Tahoma;
+    font-size: 14px;
+    width: 240px;
+}
